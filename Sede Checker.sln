@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sede Checker", "Sede Checker\Sede Checker.csproj", "{71D47BF0-CB68-41F0-B4B1-6B7F7C68D07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D47BF0-CB68-41F0-B4B1-6B7F7C68D07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D47BF0-CB68-41F0-B4B1-6B7F7C68D07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D47BF0-CB68-41F0-B4B1-6B7F7C68D07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D47BF0-CB68-41F0-B4B1-6B7F7C68D07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D0BE05-2B2B-4F8B-9102-3514427BA0DC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vsolution-ua.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Sede\u0020Checker\\Sede\u0020Checker.csproj
+		SccProjectName1 = Sede\u0020Checker
+		SccLocalPath1 = Sede\u0020Checker
+	EndGlobalSection
+EndGlobal
